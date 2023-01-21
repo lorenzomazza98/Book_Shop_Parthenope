@@ -2,7 +2,9 @@
 
 ![projectLogo](gui/images/logoapp.png)
 
-## Progetto di Programmazione III - Università "Parthenope" a.a. 2022/2023
+## Progetto di Programmazione III - Università "Parthenope" 
+
+a.a. 2022/2023
 
 Si vuole simulare un negozio per la vendita di prodotti su internet. 
 
